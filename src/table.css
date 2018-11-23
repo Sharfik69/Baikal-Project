@@ -1,0 +1,63 @@
+.opa{
+    color: white;
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+.sticky {
+    position: fixed;
+    z-index: 101;
+  }
+  .stop {
+    position: relative;
+    z-index: 101;
+  }
+
+.tit2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    font-size: 200%;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    padding-top: 3%;
+}
+.box{
+    
+    width: 100%;
+    background-color: black;
+    opacity: 0.8;
+    text-align: center;
+    
+}
+
+.hh3{
+    padding-top: 30%;
+}
+
+.back1{
+    width: 100vw;
+    height: 100%;
+    background-image: url('/img/back3.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    opacity: 0.8;
+    padding-top: 25%;
+}
+.hh{
+    opacity: 0.9;
+    text-align: left;
+}
+.hh p{
+    font-weight: bold;
+}
+.listik{
+    text-align: left;
+}

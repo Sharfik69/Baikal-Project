@@ -1,0 +1,28 @@
+.tit2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    font-size: 200%;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+.box{
+    
+    width: 100%;
+    background-color: black;
+    opacity: 0.8;
+    text-align: center;
+}
+.boxm{
+    width: 100vw;
+    height: 100%;
+    background-image: url('/img/back3.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    opacity: 0.8;
+    padding-top: 25%;
+    padding-bottom: 5%;
+}
