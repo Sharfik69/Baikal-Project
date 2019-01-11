@@ -4,12 +4,3 @@
 Проект был разработан при помощи Java-Script библиотеки React и фреймворка Bootstrap
 Жюри хакатона отметило понятный дизайн сайта, и его информативность
 # Итоговый результат
-
-![alt text](https://pp.userapi.com/c846216/v846216480/1748c6/l21sw_Yvfg8.jpg)
-
-![alt text](https://pp.userapi.com/c846216/v846216480/1748bc/lVjh-Qv88UY.jpg)
-
-![alt text](https://pp.userapi.com/c846216/v846216480/1748d0/fxu1CwhENc8.jpg)
-
-![alt text](https://pp.userapi.com/c846216/v846216480/1748da/FMNI-eHoVag.jpg)
-
