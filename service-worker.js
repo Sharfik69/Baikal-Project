@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Baikal-Project/precache-manifest.5400457ae3d9fbf1aa20b1946f25afb4.js"
+  "/Baikal-Project/precache-manifest.a4acb681854b2751403b126097c64e96.js"
 );
 
 workbox.clientsClaim();
